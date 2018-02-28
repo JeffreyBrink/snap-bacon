@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="acc4625f-1d4a-4a5a-8c37-8f3a6e7c8e8d" name="snap-bacon" url="https://bootcamp-coders.cnm.edu/~jbrink1/snap-bacon">
+        <fileTransfer host="bootcamp-coders.cnm.edu" port="22" rootFolder="/home/jbrink1/public_html/snap-bacon" accessType="SFTP" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

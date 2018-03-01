@@ -1,7 +1,7 @@
 <!DOCTYPE html>
-<html >
+<html lang="en">
 	<head>
-		<meta charset="UTF-8">
+		<meta charset="UTF-8"/>
 		<title>Feeding Our Past</title>
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<link rel="stylesheet" href="normalize.css">
@@ -19,9 +19,8 @@
 					<article class="card animated fadeInLeft">
 						<img class="card-img-top img-responsive" src="org.png"/>
 						<div class="card-block">
-							<h4 class="card-title">Animal Farm</h4>
-							<h6 class="text-muted">George Orwell</h6>
-							<p class="card-text">Tired of their servitude to man, a group of farm animals revolt and establish their own society, only to be betrayed into worse servitude by their leaders, the pigs. This satire addresses the communist philosophy the Soviet Union.</p>
+							<h4 class="card-title">Organization</h4>
+							<h6 class="text-muted">We could use some help</h6>
 							<a href="#" class="btn btn-primary">Read more</a>
 						</div>
 					</article><!-- .end Card -->
@@ -30,8 +29,8 @@
 					<!-- Card -->
 					<article class="card animated fadeInUp">
 						<div class="card-block">
-							<h4 class="card-title">Life After Life</h4>
-							<h6 class="text-muted">Kate Atkinson</h6>
+							<h4 class="card-title">Senior</h4>
+							<h6 class="text-muted">words</h6>
 						</div>
 						<img class="img-responsive" src="https://snap-photos.s3.amazonaws.com/img-thumbs/960w/SYC0YBA37V.jpg" alt="Leaf on the street" />
 						<div class="card-block">
@@ -67,7 +66,7 @@
 								<a href="#" class="card-link">Save for later</a>
 							</div>
 						</div>
-						<img class="card-img-bottom img-responsive" src="https://snap-photos.s3.amazonaws.com/img-thumbs/960w/8SALDQRRZX.jpg" alt="White sand" />
+						<img class="card-img-bottom img-responsive" src="vol.png" alt="White sand" />
 					</article><!-- .end Card -->
 				</div>
 			</div><!-- .end First row -->

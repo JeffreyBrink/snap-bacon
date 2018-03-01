@@ -1,2 +1,0 @@
-# snap-bacon
-snap challenge

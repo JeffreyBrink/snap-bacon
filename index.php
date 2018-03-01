@@ -32,7 +32,7 @@
 							<h4 class="card-title">Senior</h4>
 							<h6 class="text-muted">words</h6>
 						</div>
-						<img class="img-responsive" src="https://snap-photos.s3.amazonaws.com/img-thumbs/960w/SYC0YBA37V.jpg" alt="Leaf on the street" />
+						<img class="img-responsive" src="senior.png" alt="Leaf on the street" />
 						<div class="card-block">
 							<p class="card-text">On a cold and snowy night, Ursula Todd is born, the 3rd child of a wealthy banker and his wife. She dies before she can draw her first breath. On that same cold and snowy night, lets out a lusty wail.</p>
 						</div>

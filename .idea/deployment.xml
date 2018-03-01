@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" autoUpload="Always" serverName="snap-bacon" exclude=".svn;.cvs;.idea;.DS_Store;.git;.hg;node_modules;dist;*.js.map;vendor">
+  <component name="PublishConfigData" autoUpload="Always" serverName="snap-bacon" uploadOnCheckin="acc4625f-1d4a-4a5a-8c37-8f3a6e7c8e8d" exclude=".svn;.cvs;.idea;.DS_Store;.git;.hg;node_modules;dist;*.js.map;vendor">
     <serverData>
       <paths name="snap-bacon">
         <serverdata>
@@ -10,6 +10,7 @@
         </serverdata>
       </paths>
     </serverData>
+    <option name="myUploadOnCheckinName" value="snap-bacon" />
     <option name="myAutoUpload" value="ALWAYS" />
   </component>
 </project>

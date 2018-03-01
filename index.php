@@ -4,13 +4,13 @@
 		<meta charset="UTF-8"/>
 		<title>Feeding Our Past</title>
 		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<link rel="stylesheet" href="normalize.css">
 		<link rel='stylesheet prefetch' href='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-alpha/css/bootstrap.min.css'>
 		<link rel='stylesheet prefetch' href='https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.4.0/animate.min.css'>
 		<link rel='stylesheet prefetch' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.min.css'>
 		<link rel="stylesheet" href="styles.css">
 	</head>
 	<body>
+
 		<div class="container m-t-md">
 			<!-- First row -->
 			<div class="row">
@@ -28,22 +28,19 @@
 				<div class="col-xs-12 col-md-4">
 					<!-- Card -->
 					<article class="card animated fadeInUp">
-						<div class="card-block">
-							<h4 class="card-title">Senior</h4>
-							<h6 class="text-muted">words</h6>
-						</div>
+
 						<img class="img-responsive" src="senior.png" alt="Leaf on the street" />
+							<h4 class="card-title">Senior</h4>
 						<div class="card-block">
-							<p class="card-text">On a cold and snowy night, Ursula Todd is born, the 3rd child of a wealthy banker and his wife. She dies before she can draw her first breath. On that same cold and snowy night, lets out a lusty wail.</p>
 						</div>
 						<div class="card-block text-center">
 							<div class="btn-group hidden-sm-down hidden-md-down" role="group" aria-label="Card buttons">
-								<a href="#" class="btn btn-primary">Read more</a>
-								<a href="#" class="btn btn-primary">Save for later</a>
+								<a href="#" class="btn btn-primary">I need assistance</a>
+								<a href="#" class="btn btn-primary">optional</a>
 							</div>
 							<div class="btn-group-vertical hidden-lg-up" role="group" aria-label="Card buttons">
-								<a href="#" class="btn btn-primary">Read more</a>
-								<a href="#" class="btn btn-primary">Save for later</a>
+								<a href="#" class="btn btn-primary">I need assistance/a>
+								<a href="#" class="btn btn-primary">optional</a>
 							</div>
 						</div>
 					</article><!-- .end Card -->
@@ -52,18 +49,16 @@
 					<!-- Card -->
 					<article class="card animated fadeInRight">
 						<div class="card-block">
-							<h4 class="card-title">Wind, Sand and Stars</h4>
-							<h6 class="text-muted">Antoine de Saint-Exupéry</h6>
-							<p class="card-text">Story that captures the grandeur, danger, and isolation of flight. Its exciting account of air adventure, combined with lyrical prose and the spirit of a philosopher, makes it one of the most popular works ever written.</p>
-						</div>
+							<h4 class="card-title">Volunteers</h4>
+							<h6 class="text-muted">I want to help</h6>
 						<div class="card-block text-center">
 							<div class="btn-group hidden-sm-down hidden-md-down" role="group" aria-label="Card buttons">
-								<a href="#" class="card-link">Read more</a>
-								<a href="#" class="card-link">Save for later</a>
+								<a href="#" class="card-link">Find where to help</a>
+								<a href="#" class="card-link">One time donation</a>
 							</div>
 							<div class="btn-group-vertical hidden-lg-up" role="group" aria-label="Card buttons">
-								<a href="#" class="card-link">Read more</a><br />
-								<a href="#" class="card-link">Save for later</a>
+								<a href="#" class="card-link">Find where to help</a><br />
+								<a href="#" class="card-link">One time donation</a>
 							</div>
 						</div>
 						<img class="card-img-bottom img-responsive" src="vol.png" alt="White sand" />
@@ -75,7 +70,6 @@
 				<div class="col-xs-12 col-md-4">
 					<!-- Card -->
 					<article class="card card-inverse animated fadeInLeft">
-						<img class="img-responsive" src="https://snap-photos.s3.amazonaws.com/img-thumbs/960w/1U2EGZ07GU.jpg" alt="Deer in nature" />
 						<div class="card-img-overlay">
 							<h4 class="card-title">Animal Farm</h4>
 							<h6 class="text-muted">George Orwell</h6>
@@ -86,7 +80,6 @@
 				<div class="col-xs-12 col-md-4">
 					<!-- Card -->
 					<article class="card card-inverse animated fadeInDown">
-						<img class="img-responsive" src="https://snap-photos.s3.amazonaws.com/img-thumbs/960w/SYC0YBA37V.jpg" alt="Leaf on the street" />
 						<div class="card-img-overlay">
 							<h4 class="card-title">Life After Life</h4>
 							<h6 class="text-muted">Kate Atkinson</h6>
@@ -97,7 +90,6 @@
 				<div class="col-xs-12 col-md-4">
 					<!-- Card -->
 					<article class="card card-inverse animated fadeInRight">
-						<img class="img-responsive" src="https://snap-photos.s3.amazonaws.com/img-thumbs/960w/8SALDQRRZX.jpg" alt="White sand" />
 						<div class="card-img-overlay">
 							<h4 class="card-title">Wind, Sand and Stars</h4>
 							<h6 class="text-muted">Antoine de Saint-Exupéry</h6>
@@ -106,6 +98,6 @@
 					</article><!-- .end Card -->
 				</div>
 			</div><!-- .end Second row -->
-		</div>
+
 	</body>
 </html>

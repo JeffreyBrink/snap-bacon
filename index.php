@@ -17,7 +17,7 @@
 				<div class="col-xs-12 col-md-4">
 					<!-- Card -->
 					<article class="card animated fadeInLeft">
-						<img class="card-img-top img-responsive" src="vol.jpg" />
+						<img class="card-img-top img-responsive" src="org.png" />
 						<div class="card-block">
 							<h4 class="card-title">Animal Farm</h4>
 							<h6 class="text-muted">George Orwell</h6>
